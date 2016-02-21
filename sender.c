@@ -1,3 +1,10 @@
+/*
+Angga Pratama Putra
+Nazmi Febrian
+Topan Pratomo
+-Computer Engineering, ITB-
+*/
+
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <fcntl.h>
